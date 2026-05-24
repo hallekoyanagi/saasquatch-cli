@@ -1,6 +1,6 @@
 # SaaSquatch CLI
 
-A small Java command-line application for a co-op application.
+A small Java command-line app for a co-op application.
 
 ## Run
 
